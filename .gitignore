@@ -1,0 +1,9 @@
+build/
+*.log
+*.jou
+*.str
+*.wdb
+*.vcd
+*.xclbin
+*.xo
+.vitis_hls.log
